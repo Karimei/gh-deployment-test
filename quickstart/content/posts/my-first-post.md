@@ -7,6 +7,7 @@ title = 'My First Post'
 ## Introduction
 
 This is **bold** text, and this is *emphasized* text.
-some more text.
+Some more text.
+And even more text.
 
 Visit the [Hugo](https://gohugo.io) website!
